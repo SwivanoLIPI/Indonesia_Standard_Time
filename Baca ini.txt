@@ -1,0 +1,6 @@
+Sebelum menggunakan software Time Standard lakukan beberapa hal berikut.
+
+1. Install "Subinacl.exe" pada PC anda
+2. Dobel klik "Reset.cmd"
+3. Tunggu hingga prosesnya selesai
+4. Jalankan software "TIMESTANDARD" yang terdapat pada folde"bin" 
